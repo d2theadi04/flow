@@ -68,7 +68,7 @@ The final UI uses:
 -icons to reduce cognitive load
 Complex medical information is broken into small sections, making it less overwhelming.
 
-Key Screens:
+The page that I have done:
 https://www.figma.com/design/d46ZslhzAuGDMgbYnEHjzP/Flow-UX-UI-Design?node-id=22-2331&t=3XfKXWIbHkVAFJmc-1
 
 What I Learned:
